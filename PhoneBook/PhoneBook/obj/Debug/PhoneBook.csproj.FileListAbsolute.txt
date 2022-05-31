@@ -1,0 +1,17 @@
+C:\Users\necat\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.AssemblyReference.cache
+C:\Users\necat\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.SuggestedBindingRedirects.cache
+C:\Users\necat\source\repos\PhoneBook\PhoneBook\obj\Debug\MainWindow.g.cs
+C:\Users\necat\source\repos\PhoneBook\PhoneBook\obj\Debug\App.g.cs
+C:\Users\necat\source\repos\PhoneBook\PhoneBook\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\necat\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook_MarkupCompile.cache
+C:\Users\necat\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook_MarkupCompile.lref
+C:\Users\necat\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\necat\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+C:\Users\necat\source\repos\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\necat\source\repos\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\necat\source\repos\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\necat\source\repos\PhoneBook\PhoneBook\obj\Debug\MainWindow.baml
+C:\Users\necat\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.g.resources
+C:\Users\necat\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\necat\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+C:\Users\necat\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
